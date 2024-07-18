@@ -1,5 +1,5 @@
 mountpoints:
-  #/: https://drive.google.com/drive/folders/1Gz9LcQjkrDbsAommmv8G1Qriy8qHS4oq?usp=drive_link
+  #/: https://drive.google.com/drive/folders/1Ksle3I2XcoiZvB_CxcdV5oErOc7s8XHq
   /:
     url: https://author-p46835-e1104134.adobeaemcloud.com/bin/franklin.delivery/deckreyes/xsc-xwalk-site/main
     type: markup
